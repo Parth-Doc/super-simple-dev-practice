@@ -1,0 +1,139 @@
+.subscribe-btn{
+    background-color: #CC0000;
+    border: none;
+    color: white; 
+    height: 34px;
+    width: 100px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+
+    
+}
+.join-btn{
+    background-color: white;
+    border:1px solid #065fd4;
+    color: #065fd4;
+    height: 34px;
+    width: 62px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.tweet-btn{
+    background-color: #1d9bf0;
+    color: white;
+    border: none;
+    height: 32px;
+    width: 70px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+
+}
+.uber-btn{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+.Amazon{
+    background-color: rgb(255, 216,20);
+    border: none;
+    height: 38px;
+    width: 150px;
+    border-radius: 19px;
+    cursor: pointer;
+    margin-right: 8px;
+    font-size: 14px;
+}
+
+.github{
+    background-color: rgb(46, 164, 79);
+    border: none;
+    color: white;
+    height: 40px;
+    width: 90px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+.bootstrap-btn1{
+    background-color: rgb(121,82,179);
+    color:azure;
+    border: none;
+    width: 110px;
+    height: 40px;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 14px;
+    margin-right: 8px;
+}
+
+.bootstrap-btn2{
+    background-color:white;
+    color:rgb(108,117,125);
+    border: 1px solid rgb(108,117,125);
+    font-weight: bold;
+    width: 110px;
+    height:40px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.linkedin1{
+    background-color:rgb(10,102,194);
+    color: white;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    height: 40px;
+    width: 240px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+.linkedin2{
+    color:rgb(10,102,194);
+    background-color: white;
+    border: 1.5px solid rgb(10,102,194);
+    font-weight: bold;
+    font-size: 16px;
+    height:40px;
+    width:90px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.price{
+    color: rgb(0,118,0);
+    font-weight: bold;
+    font-size: large;
+}
+.f1-btn{
+    background-color: rgb(255, 216, 20);
+    border: none;
+    height: 30px;
+    width: 110px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 17px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+.f2-btn{
+    background-color: rgb(255,164,28);
+    border: none;
+    height:30px;
+    width: 110px;
+    border-radius: 17px;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+}
